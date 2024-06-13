@@ -49,7 +49,6 @@ def calculate(zipped_list):
     fp = 0
     fn = 0
 
-    #taking brecht as gold
     for item in zipped_list:
         if item[0] == '0' and item[1] != '0':
             fn += 1
