@@ -1,5 +1,8 @@
 # VarDial2024
 
+<img width="200" alt="Screenshot 2024-06-11 at 14 15 58" src="https://github.com/StellaVerkijk/VarDial2024/assets/62950143/14da9c12-5775-49f3-aae5-f94b5ae2ae1b"> \
+
+
 <p> This repository contains code and data to run experiments as well as a collection of annotated data presented in the paper presented at VarDial, NAACL 2024 (June), by Verkijk, Sommerauer and Vossen (_Studying Language Variation Considering the Re-Usability of Modern Theories, Tools and Resources for Annotating Explicit and Implicit Events in Cnturies Old Text_).This work is part of the GLOBALISE project. </p>
 
 ### annotated_data
@@ -15,6 +18,9 @@ This folder contains all annotated data collected thus far for event detection a
 
 The documents included in **non-curated** are also those used for calculating the IAA. 
 The documents included in **train_2** are also used in the LLM-finetuning experiment, where this data is split in train and test. 
+
+
+<img width="200" alt="Screenshot 2024-06-12 at 19 18 16" src="https://github.com/StellaVerkijk/VarDial2024/assets/62950143/b821ab19-2655-41c0-b805-ef0693f67cb1">
 
 
   
