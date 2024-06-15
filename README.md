@@ -21,7 +21,7 @@ The documents included in **non-curated** are also those used for calculating th
 The documents included in **train_2** are also used in the LLM-finetuning experiment, where this data is split in train and test. 
 
 
-<img width="185" alt="Screenshot 2024-06-12 at 19 18 16" src="https://github.com/StellaVerkijk/VarDial2024/assets/62950143/b821ab19-2655-41c0-b805-ef0693f67cb1">
+<img width="155" alt="Screenshot 2024-06-12 at 19 18 16" src="https://github.com/StellaVerkijk/VarDial2024/assets/62950143/b821ab19-2655-41c0-b805-ef0693f67cb1">
 
 
   
