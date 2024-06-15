@@ -1,0 +1,15 @@
+# lightning.pytorch==2.0.2
+seed_everything: true
+trainer:
+  accelerator: auto
+  strategy: auto
+  devices: auto
+  num_nodes: 1
+  precision: bf16-mixed
+  callbacks: 
+    - class_path: run_event_detect.CustomWriter
+      init_args: 
+        write_interval: "epoch"
+    - class_path: run_event_detect.SeqevalCb
+  inference_mode: true
+ckpt_path: lightning_logs/version_0/checkpoints/last.ckpt
