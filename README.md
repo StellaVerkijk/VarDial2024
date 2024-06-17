@@ -20,6 +20,16 @@ This folder contains all annotated data collected thus far for event detection a
 The documents included in **non-curated** are also those used for calculating the IAA. 
 The documents included in **train_2** are also used in the LLM-finetuning experiment, where this data is split in train and test. 
 
+Overview w/ metadata:
+<img width="1198" alt="Screenshot 2024-06-17 at 01 36 45" src="https://github.com/StellaVerkijk/VarDial2024/assets/62950143/67c593d2-1132-4acc-bf6c-6c549978b7f3">
+
+
+### zero-shot_experiments
+This folder contains code and data to reproduce the zero-shot experiments presented in the paper.
+
+### LLM-finetuning
+This folder contains code and data to fine-tune (L)LMs on the task of event detection as described in the paper. 
+The code was written to be run on an HPC cluster. The original code written for NER is by Sophie Arnoult.
 
 <img width="155" alt="Screenshot 2024-06-12 at 19 18 16" src="https://github.com/StellaVerkijk/VarDial2024/assets/62950143/b821ab19-2655-41c0-b805-ef0693f67cb1">
 
